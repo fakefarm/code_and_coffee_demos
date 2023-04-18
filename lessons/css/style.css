@@ -1,0 +1,45 @@
+* {
+  padding: 1px;
+  margin: 1px;
+}
+
+.body {
+  border: 1px dashed red;
+}
+
+.header {
+  border: 1px double tomato;
+  display: flex;
+}
+
+.header-col {
+  flex-basis: 50%;
+}
+
+.headline {
+  background: #66ccff;
+}
+
+.logo {
+  background: tomato;
+}
+
+.main {
+  border: 1px dotted #21ff06;
+}
+
+.section {
+  border: 1px solid #66ffff;
+}
+
+.article {
+  border: 1px solid #fd6666;
+}
+
+.div {
+  border: 1px solid #074080;
+}
+
+.footer {
+  border: 1px dashed purple;
+}
