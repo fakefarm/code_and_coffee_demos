@@ -36,10 +36,39 @@ ul{
     display: flex;
 }
 
-.logo{
+.logo {
     background-color: red;
 }
 
 .headline{
     background-color: aqua;
+}
+
+.columns {
+  display: flex;
+}
+
+.col {
+   flex-grow: 1;
+}
+
+.col:nth-child(1) {
+  background: green;
+}
+
+.columns > .col {
+  background: blue;
+}
+
+
+.col:nth-child(2) {
+  background: red;
+}
+
+.columns > div ~ div {
+  background: blue;
+}
+
+.col + .col + .col {
+  background: yellow;
 }

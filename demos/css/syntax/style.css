@@ -1,0 +1,28 @@
+* {
+  font-size: 72px;
+}
+nav {
+  background: red;
+}
+
+ul {
+ display: none;
+}
+
+header:hover + ul {
+  background: yellow;
+  display: block;
+}
+
+/* Homework is solve this
+
+ hover over the header to show the ul.
+ hover over the ul to change the color of the li
+
+ */
+/*nav:hover + ul:hover {
+  display: block;
+  background: orange;
+}
+
+*/
