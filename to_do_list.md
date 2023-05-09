@@ -1,18 +1,11 @@
 # TODO
 
-## GIT
-x add .gitignore
-x pull latest changes
-* pull your changes
-
-
 ## Make a TODO list
-* remap cap 
-* backamarket
+* remap cap @ryan
+* backamarket @dave
 
-## Hello world to code&coffee
-* add to config
-* 
+## Hello world to for Java
+* please add instructions to /java/readme for how to run it. @ryan
 
 
-# Ryan homework
+# Ryan homework @ryan
