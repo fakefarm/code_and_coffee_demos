@@ -1,0 +1,19 @@
+* {
+  font-size: 72px;
+}
+header {
+  background: red;
+}
+
+ul {
+ display: none;
+}
+
+nav:hover ul {
+  background: yellow;
+  display: block;
+}
+
+ul li:hover {
+  background: orange;
+}
