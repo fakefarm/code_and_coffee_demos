@@ -9,29 +9,43 @@
 </head>
 <body>
     body
-    <header class="header">header
-        <div class="logo">Logo
+    <header class="header flex-container">header
+        <div class="logo col">Logo
             <img src="" alt="">
         </div>
-        <div class="headline">Headline</div>
+        <div class="headline col">Headline</div>
     </header>
     <main>
         main
-        <section>section
-            <div>col1
-                <table>
-                    <thead></thead>
+        <section class="columns flex-container">section
+            <div class="col col1">col1
+                <table class="table">
+                    <thead>
+                        <td>A</td>
+                        <td>B</td>
+                        <td>C</td>
+                    </thead>
+                    <tr>
+                        <td>1</td>
+                        <td>2</td>
+                        <td>3</td>
+                    </tr>
+                    <tr>
+                        <td>4</td>
+                        <td>5</td>
+                        <td>6</td>
+                    </tr>
                 </table>
             </div>
-            <div>col2
-                <div>div for img<img src="" alt=""></div>
-                <p>paragraph</p>
+            <div class="col col2">col2
+                <div>div for img<img class="img" src="./pexels-mike-b-198101.jpg" alt=""></div>
+                <p class="para">paragraph</p>
             </div>
-            <div>col3
+            <div class="col col3">col3
                 <ul>
                     <li>one</li>
-                    <li>one</li>
-                    <li>one</li>
+                    <li>two</li>
+                    <li>three</li>
                 </ul>
             </div>
         </section>
