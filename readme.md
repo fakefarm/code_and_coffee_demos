@@ -8,13 +8,16 @@ This repo contains the notes for various lessons that arise in real time.
 ## Link to live site:
 
 ### Home page:
-https://fakefarm.github.io/code_and_coffee_with_people/index.html
+http://ccp.fakefarm.com/index.html
 
 ### People Page:
-https://fakefarm.github.io/code_and_coffee_with_people/people/index.html
+http://ccp.fakefarm.com/people/index.html
 
 ### Ryan:
-https://fakefarm.github.io/code_and_coffee_with_people/people/RyanHeishman/index.html
+http://ccp.fakefarm.com/people/RyanHeishman/index.html
 
 ### Ben:
-https://fakefarm.github.io/code_and_coffee_with_people/people/BetaBroDraco/index.html
+http://ccp.fakefarm.com/people/BetaBroDraco/index.html
+
+### Dave:
+http://ccp.fakefarm.com/people/dadzoo/index.html
