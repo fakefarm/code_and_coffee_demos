@@ -15,3 +15,6 @@ https://fakefarm.github.io/code_and_coffee_with_people/people/index.html
 
 ### Ryan:
 https://fakefarm.github.io/code_and_coffee_with_people/people/RyanHeishman/index.html
+
+### Ben:
+https://fakefarm.github.io/code_and_coffee_with_people/people/BetaBroDraco/index.html
