@@ -2,3 +2,13 @@ body {
   background: tomato;
   color: yellow;
 }
+
+img {
+/*  width: 40%;*/
+}
+
+h1 {
+  font-family: courier;
+  font-weight: 100;
+  font-size: 7em;
+}
