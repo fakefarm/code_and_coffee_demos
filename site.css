@@ -1,0 +1,24 @@
+body {
+  color: #ef1520;
+  background: #ffff00;
+}
+.initials {
+  font-size: 14em;
+  padding: 0;
+  margin: 0;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Stalinist One', cursive;
+}
+
+p, a, li {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+img {
+  border: 23px solid #ef1520;
+  transform: rotate(-7deg);
+}
