@@ -17,7 +17,7 @@ http://ccp.fakefarm.com/people/index.html
 http://ccp.fakefarm.com/people/RyanHeishman/index.html
 
 ### Ben:
-http://ccp.fakefarm.com/people/BetaBroDraco/index.html
+http://ccp.fakefarm.com/people/betabrodraco/index.html
 
 ### Dave:
 http://ccp.fakefarm.com/people/dadzoo/index.html
